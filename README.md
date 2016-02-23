@@ -1,2 +1,4 @@
-# Wells-Fargo-Project-management-Tool
-Contains the codes base of the "Wells Fargo Project Management Tool" Course Project of the Software Systems Design and Implementation Course
+agilefant
+=========
+For instructions and support, see https://github.com/Agilefant/agilefant/wiki and http://agilefant.com/pricing/open-source-version-support/?utm_source=rel_notes&utm_campaign=3.5.3
+Or, get a free hosted Agilefant at www.agilefant.com!
